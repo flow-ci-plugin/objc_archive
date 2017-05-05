@@ -2,13 +2,14 @@
 name: objc_archive
 version: 0.0.1
 language: objc
-description: objc archive
+description: "该插件的功能已集成在 build 中"
 public: true
 tags:
   - objc
   - archive
 
 outputs:
+
 script_path: ./run.sh  
   
 template: |  
